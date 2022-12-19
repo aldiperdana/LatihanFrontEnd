@@ -1,0 +1,22 @@
+.nav{
+    list-style-type: none;
+    /* display: inline; */
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav li:hover{
+    background: #eee;
+    cursor: pointer;
+}
+
+.nav li a {
+    margin: 0 5px;
+    padding: 0 15px;
+    /* background-color: salmon; */
+    text-decoration: none;
+}
